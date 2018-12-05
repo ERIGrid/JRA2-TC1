@@ -1,5 +1,4 @@
-Mosaik code for JRA2-TC1
-========================
+# Mosaik code for JRA2-TC1
 
 The provided code can be used to replicate the mosaik-based implementation
 of the ERIGrid JRA2 TestCase1 in the small-scale version.
