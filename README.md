@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/160528913.svg)](https://zenodo.org/badge/latestdoi/160528913)
+
 # ERIGrid JRA2: Test case TC1 mosaik implementation
 
 This file contains instructions for installing the required tools and packages as well as for running the co-simulation tests of TC1 and its upscaled version (referred to as LSS1).
