@@ -1,0 +1,13 @@
+ElmGenstat.WPP.m:Psum:bus1
+ElmGenstat.WPP.m:u1:bus1
+ElmGenstat.WPP.m:phiu1:bus1
+ElmGenstat.WPP.s:id
+ElmGenstat.WPP.s:iq
+ElmGenstat.WPP.e:Pnom
+ElmGenstat.WPP.m:P:bus1
+ElmGenstat.WPP.m:Q:bus1
+ElmSym.G1.s:xspeed
+ElmSym.G1.s:xphi
+ElmSym.G2.s:xspeed
+ElmSym.G2.s:xphi
+ElmTerm.Bus9.m:u

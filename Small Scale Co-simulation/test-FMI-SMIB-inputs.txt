@@ -1,0 +1,4 @@
+EvtParam.iq_ref_slot.iq_ref_in
+EvtParam.id_ref_slot.id_ref_in
+EvtParam.event.trigger
+EvtParam.event.event_string
