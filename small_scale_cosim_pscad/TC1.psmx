@@ -1,0 +1,15 @@
+<Meta name="TC1">
+  <messagelist>
+    <message status="error" label="build" groupid="300503">
+      <User scope="TC1" name="FMI_TCP:pscad_send" status="error" link="623880973" /><![CDATA[Unable to resolve definition 'FMI_TCP:pscad_send']]></message>
+    <message status="error" label="build" groupid="300503">
+      <User scope="TC1" name="FMI_TCP:pscad_recv" status="error" link="496519264" /><![CDATA[Unable to resolve definition 'FMI_TCP:pscad_recv']]></message>
+  </messagelist>
+  <Catalog count="0" />
+  <ViewContext>
+    <Window defn="TC1:Main" call="0" />
+  </ViewContext>
+  <List classid="View">
+    <View name="Main" zoomlevel="6" scrollx="596" scrolly="437" />
+  </List>
+</Meta>
