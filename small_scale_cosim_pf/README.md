@@ -9,6 +9,8 @@ A detailed description of test case TC1 can be found in [ERIGrid deliverable D-J
 - **MATLAB/Simulink** (tested with MATLAB R2014b 32-bit) and the [**FMI Kit for Simulink**](https://www.3ds.com/products-services/catia/products/dymola/fmi/)
 - add the PowerFactory and MATLAB binary directories to the PATH variable
 
+**NOTE**: The interfaces of the tools typically change (at least slightly) with each version.
+Hence, this specific setup will most likely not work in case you do not use the exact versions of Python, PowerFactory and MATLAB mentioned above! 
 
 **ATTENTION**: The co-simulation toolchain needs to be completely in either 32-bit or 64-bit.
 For TC1 it was decided to use consistently **32-bit** for Windows setups.
